@@ -1,4 +1,4 @@
-# PROMPTS-FOR-THEMATIC-ANALYSIS-IN-LLM-MODELS
+# PROMPTS FOR THEMATIC ANALYSIS IN LLM MODELS
 These are the prompts used as inputs for LLM models to assist with the thematic analysis in the master's thesis "Impacto do Trabalho Remoto na Dinâmica de Equipa no Desenvolvimento de Jogos Digitais"
 
 ## Prompt to Infer Initial Codes (Phase 2)
